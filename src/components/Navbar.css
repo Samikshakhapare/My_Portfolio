@@ -1,0 +1,21 @@
+
+.header{
+    /* to add in a row = display: flex */
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+
+.nav-menu{
+    display: flex;
+}
+.nav-menu li{
+    padding: 0 1rem;
+}
+/* Link tag is ancor tag (a) */
+.nav-menu a{
+    padding: 0 1.2rem;
+    font-weight:500;
+}

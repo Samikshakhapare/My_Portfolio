@@ -1,0 +1,18 @@
+
+6. In navbar we have pages like about, etc.
+   app.js = parent file.
+   == Make a new folder => Routes
+7. Inside Home.js _ make a functional component   == Shortcut -rafce for this extention is ES7.
+
+8.  Calling to all pages/routes
+import Home from "./routes/Home";
+then Route pages inside function <></> => Empty Fragment or tag.
+    
+<route> = is a function from react and give path and call pages.
+
+9. Making the Components ...like navbar,Hero-Section,Project section, footer.
+  -- Make a Component Folder in src
+  1. Navbar.js = make link and direct to mainfile app
+     we have to import Navbar inside HOme Page
+     
+
